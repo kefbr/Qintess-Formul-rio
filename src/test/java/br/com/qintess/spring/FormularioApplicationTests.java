@@ -1,10 +1,10 @@
-package br.com.resource.spring;
+package br.com.qintess.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LivrariaApplicationTests {
+class FormularioApplicationTests {
 
 	@Test
 	void contextLoads() {
